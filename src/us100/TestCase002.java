@@ -8,7 +8,10 @@ public class TestCase002 {
 
         System.out.println("How are you");
 
-        System.out.println("Everything is Okey?");
+        System.out.println("Everything is Okay?");
+
+        // step 1 is done
+
 
 
     }
